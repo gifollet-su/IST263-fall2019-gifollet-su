@@ -1,0 +1,50 @@
+header#site-header {
+    width: 130%;
+    height: 74px;
+    background-color: #333333;
+}
+
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.container {
+    width: 1200px;
+    margin: 0 auto;
+}
+
+.row {
+    display: flex;
+}
+
+.col {
+    flex: 1;
+}
+
+img.responsive {
+    width: 100%;
+    height: auto;
+}
+
+.card {
+    margin: 10px;
+    border: 1px solid #ccc;
+    padding: 10px;
+}
+
+h2 {
+    font-size: 20px;
+}
+
+div.header {
+    padding: 5px;
+}
+
+div.header p {
+    margin: 0;
+}
+
+div.header h1 {
+    margin: 5px 0;
+}
+
